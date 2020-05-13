@@ -6,7 +6,7 @@ The goal of this lab is to learn about image signing and the capabilities provid
 === Introduction
 
 ==== Signing Images
-In order to sign a image you must have a private key.  Others can than use a public key to verify the image that was signed.
+In order to sign a image you must have a private key.  Others can then use a public key to verify the image that was signed.
 
 ==== Trust Policy
 The trust policy is defined by modifying the following files:
